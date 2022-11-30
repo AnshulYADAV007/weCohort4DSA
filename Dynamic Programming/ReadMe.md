@@ -5,7 +5,8 @@
     - 21st Nov 2022 : https://jamboard.google.com/d/1g_ymlO2yXAezvk6aRohGTDFs-tmsNLUFj-sVRr8deSY/edit?usp=sharing
     - 25th Nov 2022 : https://jamboard.google.com/d/1eGby9wariH9Ayr4_zpN2gyBEgmfNhAHfJ_SSbcdbA90/edit?usp=sharing
     - 28th Nov 2022 : https://jamboard.google.com/d/1vDnfsVcwvQFSGNFBgC8jIaFkvTWbmUnDqj_rt1k3UDQ/edit?usp=sharing
-
+    - 30th Nov 2022 : https://jamboard.google.com/d/136LJkfQZrConjEigj8GHpzPvjpkZmSLGC44hFFE03fs/edit?usp=sharing
+    
 # Fib Question:
 
     - https://leetcode.com/problems/fibonacci-number/description/
