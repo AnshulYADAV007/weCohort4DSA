@@ -14,3 +14,7 @@
 # 0-1 Knapsack:
 
     - https://leetcode.com/problems/partition-equal-subset-sum/
+
+# Master Category-wise lists of questions
+    - https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+    
