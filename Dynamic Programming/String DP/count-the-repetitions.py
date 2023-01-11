@@ -53,3 +53,30 @@ class Solution:
                     dp[i][j] = max(dp[i-1][j], dp[i][j-1])
 
         return dp[-1][-1] == len(pattern)
+
+
+# Another solution
+
+class Solution2:
+    def getMaxRepetitions(self, s1: str, n1: int, s2: str, n2: int) -> int:
+        text = s1
+        pattern = s2
+        textIndex = 0
+        textCount = 0
+        patternCount = 0
+        patternIndex = 0
+
+        while textCount < n1:
+            if pattern[patternIndex] == text[textIndex]:
+                patternIndex += 1
+                textIndex += 1
+            else:
+                textIndex += 1
+            if patternIndex == len(pattern):
+                patternCount += 1
+                patternIndex = 0
+            if textIndex == len(text):
+                textIndex = 0
+                textCount += 1
+
+        return patternCount // n2
